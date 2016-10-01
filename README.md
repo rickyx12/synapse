@@ -1,2 +1,3 @@
 # synapse
-The first version of synapase hospital system
+The first version of synapase hospital system...
+Synapse intend to support the basic operation of the healthcare provider. IPD, OPD, PhilHealth, HMO, Doctor's PF and the Inventory.it also has an ability to generate a report like Census, Current Inventory, Usages, Remittance, HMO SOA, Doctor's PF and Collection Report.Synapse also intend to be the medium between the Patient and the Hospital by allowing the Patient to view Their Current Bill, SOA, Examination Result's.
